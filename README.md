@@ -37,3 +37,4 @@
 - [Zenn](https://zenn.dev/yuto_m)
 - [Github](https://github.com/yuto-m)
 - [Wantedly](https://www.wantedly.com/id/yuto)
+- [YOUTRUST](https://youtrust.jp/users/yuto_m)
