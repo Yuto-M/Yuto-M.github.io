@@ -37,3 +37,4 @@
 - [Twitter](https://twitter.com/yutooo_m)
 - [Zenn](https://zenn.dev/yuto_m)
 - [Github](https://github.com/yuto-m)
+- [Wantedly](https://www.wantedly.com/id/yuto)
